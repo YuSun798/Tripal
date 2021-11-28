@@ -1,0 +1,13 @@
+
+.status {
+  position: absolute;
+  right: 0px;
+  margin-top: -18px;
+
+}
+
+.status p {
+  font-size: 1.2rem;
+  color: #565656;
+  margin-left: 15px;
+}
